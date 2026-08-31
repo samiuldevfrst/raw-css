@@ -1,0 +1,34 @@
+body {
+    background-color: lightcoral;
+    font-family: Arial;
+    text-align: center;
+}
+
+.box {
+    background-color: white;
+    width: 400px;
+    margin: 80px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    color: darkred;
+}
+
+p {
+    color: gray;
+}
+
+button {
+    background-color: darkred;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
